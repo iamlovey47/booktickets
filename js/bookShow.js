@@ -289,7 +289,7 @@ $(document).ready(function()
 			$('.seats_alert').hide();
 			$('.book_alert').show();
 			setTimeout(function () {
-       			window.location = "./home.html"; //will redirect to your blog page (an ex: blog.html)
+       			window.location = "./index.html"; //will redirect to your blog page (an ex: blog.html)
     		}, 2000)
 			
 		}
